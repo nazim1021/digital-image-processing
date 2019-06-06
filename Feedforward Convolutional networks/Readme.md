@@ -25,7 +25,7 @@ However, how CNNs are so efficient at being able to perform such tasks, has been
 	```
 2.	Then run inverse_saab_transform.py to get reconstructed image. This will output single image and PSNR value. For different test images, we change index in true and recon variable as 
 	```
-		true = test_images[1].squeeze(-1) # (index 1 							represents 2nd image)
+		true = test_images[1].squeeze(-1) # (index 1 represents 2nd image)
 		recon = data[1].squeeze(-1)
 
 		python inverse_saab_transform.py
