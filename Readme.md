@@ -1,1 +1,1 @@
-# Digitial-Image-processing
+# Digital-Image-processing
