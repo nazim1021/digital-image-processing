@@ -1,6 +1,6 @@
 # Texture Analysis and Image Feature Extraction using SIFT
 
-Here, we focus on implementing texture analysis and segmentation algorithms based on the 5x5 Laws filters. Additionally, we implement Scale Invariant Feature Transform (SIFT) based on paper `Image feature extractors are useful for representing the image information in a low dimensional
+In this assignment, we focus on implementing texture analysis and segmentation algorithms based on the 5x5 Laws filters. Additionally, we implement Scale Invariant Feature Transform (SIFT) based on paper `Image feature extractors are useful for representing the image information in a low dimensional
 form`. SIFT is an image feature extractor which is useful for representing the image information in a low dimensional form.
 
 ## REQUIREMENTS
