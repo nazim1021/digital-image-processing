@@ -16,18 +16,18 @@ In this assignment, we focus on implementing texture classification and segmenta
 
 1.	For Texture Classification, run below command 
 	```
-		python texture_classification.py
+	python texture_classification.py
 	```
 2.	For Texture Segmentation, run the below command
 	```
-		python texture_segmentation.py
+	python texture_segmentation.py
 	```
 3.	For Image matching, run the below command
 	```
-		python image_matching.py
+	python image_matching.py
 	```
 
 4.	For Bag of words, run the below command
 	```
-		python bag_of_words.py
+	python bag_of_words.py
 	```
