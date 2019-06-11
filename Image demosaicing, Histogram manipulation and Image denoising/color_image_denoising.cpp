@@ -1,9 +1,4 @@
-//Name: Nazim Shaikh
-//USC ID: 8711456229
-//USC EMAIL: nshaikh@usc.edu
-//Submission Date: 01/22/2019
-
-//Below code implements image denoising for color image with mixed noise
+//Image denoising for color image with mixed noise
 
 #include <stdio.h>
 #include <iostream>

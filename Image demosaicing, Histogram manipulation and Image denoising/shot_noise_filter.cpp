@@ -1,9 +1,4 @@
-//Name: Nazim Shaikh
-//USC ID: 8711456229
-//USC EMAIL: nshaikh@usc.edu
-//Submission Date: 01/22/2019
-
-//Below code implements shot noise filtering
+//Shot noise filtering
 
 #include <stdio.h>
 #include <iostream>

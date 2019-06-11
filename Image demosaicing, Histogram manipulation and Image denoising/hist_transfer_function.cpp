@@ -1,10 +1,4 @@
-//Name: Nazim Shaikh
-//USC ID: 8711456229
-//USC EMAIL: nshaikh@usc.edu
-//Submission Date: 01/22/2019
-
-
-//Below code implements transfer function based histogram manipulation
+//Transfer function based histogram manipulation
 
 #include <stdio.h>
 #include <iostream>

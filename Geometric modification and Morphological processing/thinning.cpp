@@ -1,9 +1,3 @@
-//EE569 Homework Assignment #3 Prob 2 Morphological Processing (Shrinking)
-//Name: Nazim Shaikh
-//USC ID: 8711456229
-//USC EMAIL: nshaikh@usc.edu
-//Submission Date: 03/03/2019
-
 #include <iostream>
 #include <stdio.h>
 #include <stdlib.h>

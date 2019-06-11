@@ -6,8 +6,9 @@ applications. We also study various morphological processing techniques used for
 ## REQUIREMENTS
 
 1. Ubuntu/Windows
-2. C++ (g++ compiler)
-3. Matlab 2016b+
+2. Vscode
+3. C++ (g++ compiler)
+4. Matlab 2016b+
 
 
 ## USAGE INFORMATION 

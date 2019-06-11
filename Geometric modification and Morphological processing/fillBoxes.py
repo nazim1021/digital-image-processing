@@ -1,9 +1,3 @@
-# EE569 Assignment 3 - Problem 1 (a)
-# Name: Nazim Shaikh
-# USC ID: 8711456229
-# USC EMAIL: nshaikh@usc.edu
-# Submission Date: 03/03/2019
-
 import numpy as np
 from math import sin, cos, atan2, pi, ceil
 from matplotlib import pylab as plt

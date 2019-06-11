@@ -1,8 +1,4 @@
-# Homework 4: 1(b) & 1(c) - Texture Segmentation
-# Name: Nazim Shaikh
-# USC ID: 8711456229
-# USC EMAIL: nshaikh@usc.edu
-# Submission Date: 03/19/2019
+# Texture Segmentation
 
 import numpy as np
 import cv2

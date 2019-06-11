@@ -5,12 +5,13 @@ Edge detection, is a process of identifying object edges in an image. In this as
 ## Requirements
 
 1. Ubuntu/Windows
-2. C++ (g++ compiler)
-3. Matlab 2016b+ 
+2. Vscode
+3. C++ (g++ compiler)
+4. Matlab 2016b+ 
 
 ## USAGE INFORMATION
 
-Use below commands to run respective files
+For Digital halftoning output, run as below:
 ```
 g++ constant_threshold.cpp -o constant
 ./constant bridge.raw bridge_constant.raw 1 600 400
@@ -36,7 +37,7 @@ g++ separable.cpp -o separable
 g++ mbvq.cpp -o mbvq
 ./mbvq bird.raw bird_out.raw 3 500 375
 ```
-For Canny edge detection, run the file `canny.m`
+For Canny edge detection, run the file `canny.m`.
 For performance evaluation use file `cannyEdgeEval.m`
 ```
 g++ sobel.cpp -o sobel

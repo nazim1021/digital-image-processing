@@ -1,11 +1,4 @@
-//Name: Nazim Shaikh
-//USC ID: 8711456229
-//USC EMAIL: nshaikh@usc.edu
-//Submission Date: 01/22/2019
-
-
-
-// This code implements MHC demosaicing
+//MHC demosaicing
 
 #include <stdio.h>
 #include <iostream>

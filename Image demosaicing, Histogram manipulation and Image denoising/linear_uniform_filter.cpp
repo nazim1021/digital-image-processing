@@ -1,10 +1,4 @@
-//Name: Nazim Shaikh
-//USC ID: 8711456229
-//USC EMAIL: nshaikh@usc.edu
-//Submission Date: 01/22/2019
-
-
-//Below code implements linear uniform filtering for image denoising
+//Linear uniform filtering for image denoising
 
 #include <stdio.h>
 #include <iostream>

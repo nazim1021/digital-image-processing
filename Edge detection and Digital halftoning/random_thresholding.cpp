@@ -1,8 +1,3 @@
-//Name: Nazim Shaikh
-//USC ID: 8711456229
-//USC EMAIL: nshaikh@usc.edu
-//Submission Date: 02/12/2019
-
 #include <iostream>
 #include <stdio.h>
 #include <stdlib.h>
